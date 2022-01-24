@@ -8,6 +8,9 @@ To Do:
 - BIOS Interaction(Set date and time, battery percentage, shutdown command, hardware info)
 - Set Background/wallpaper
 - Password on login
+- Networking(Wi-Fi + Ethernet)
+- Programs(Basic Text Editor, Modern Web Browser, Calculator and File Browser)
+
 Starred items are Priority
 
 #### currently in the Alpha stage
