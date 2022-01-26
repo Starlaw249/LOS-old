@@ -3,6 +3,9 @@
 # <img src="https://user-images.githubusercontent.com/78159956/151229169-ae57dee1-afa3-446b-bd03-a4522942915e.png" alt="alt text" width="420" height="69">-->
 # ![Untitled2](https://user-images.githubusercontent.com/78159956/151229169-ae57dee1-afa3-446b-bd03-a4522942915e.png) 
 "Lapiz Operating System" or LOS is a lightweight, simple and graphical operating system based on the MyOS(http://homepages.rpi.edu/~wangy52/PersonalWebsite/build/html/Misc/MyOS/MyOS.html) "DIY" OS tutorial. 
+First off, A warm welcome to the LOS community! we are excited for your interest. Your involvement is much appriciated(though not required) in helping us make a lightweight graphical operating system. 
+
+Thank you for visiting our small corner of the interwebs :)
 
 To Do:
 - Boot on REAL HARDWARE*
