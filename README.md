@@ -7,16 +7,4 @@ First off, A warm welcome to the LOS community! we are excited for your interest
 
 Thank you for visiting our small corner of the interwebs :)
 
-To Do:
-- Boot on REAL HARDWARE*
-- Interactive & Usable GUI*
-- App Icons
-- BIOS Interaction(Set date and time, battery percentage, shutdown command, hardware info)*
-- Set Background/wallpaper
-- Password on login
-- Networking(Wi-Fi + Ethernet)
-- Programs(Basic Text Editor, Modern Web Browser, Calculator and File Browser)
-
-Starred items are Priority
-
-#### currently in the Alpha stage
+#### currently in the (Very early) Alpha stage
