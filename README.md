@@ -1,5 +1,5 @@
 # Hello!
-"Jackson's Operating System" or JOS is a lightweight, simple and graphical operating system based on the MyOS(http://homepages.rpi.edu/~wangy52/PersonalWebsite/build/html/Misc/MyOS/MyOS.html) "DIY" OS tutorial. 
+"Lapiz Operating System" or LOS is a lightweight, simple and graphical operating system based on the MyOS(http://homepages.rpi.edu/~wangy52/PersonalWebsite/build/html/Misc/MyOS/MyOS.html) "DIY" OS tutorial. 
 
 To Do:
 - Boot on REAL HARDWARE*
