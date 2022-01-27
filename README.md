@@ -16,7 +16,9 @@ To Do:
 - Password on login
 - Networking(Wi-Fi + Ethernet)
 - Programs(Basic Text Editor, Modern Web Browser, Calculator and File Browser)
-
+- Boot Screen
+- View date and time on menu bar
+- Shutdown button
 Starred items are Priority
 
 #### currently in the (Very early) Alpha stage
